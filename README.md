@@ -46,7 +46,7 @@ print(regression.predict([[3300,1300]]))
 
 ### Insert your output
 
-<img width="865" height="408" alt="image" src="https://github.com/user-attachments/assets/c41e46ac-01fd-4c6a-8dbb-222cffdf21dc" />
+![OUTPUT](<EX-10 OUTPUT.png>)
 
 
 ## Result
